@@ -46,7 +46,7 @@ Two models were employed: Logistic Regression, Random Forest, Decision Trees and
 
 Hyperparameter tuning was performed using GridSearchCV to optimize the Random Forest model.
 
-      #### Model Evaluation
+#### Model Evaluation
 ROC curves were plotted to compare the performance of the Logistic Regression and Random Forest models. Random Forest outperformed Logistic Regression with a higher AUC.
 
 #### Feature Importance
